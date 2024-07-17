@@ -2,6 +2,7 @@ import ButtonGradient from "./assets/svg/ButtonGradient";
 import {
   Benefits,
   Collaboration,
+  Footer,
   Header,
   Hero,
   Pricing,
@@ -20,6 +21,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
